@@ -1,0 +1,34 @@
+body {
+    background-image: url('RESTUARANTWEB/IMG-20250222-WA0020.jpg');
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    background-position:center;
+    height: 100vh;
+    color: azure;
+    align-content:normal;
+    text-align:center;
+}
+
+h1{
+    font-family:forte;
+    color:rgb(10, 102, 182);
+    font-size: 40px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items:safe;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #2e3d4d;
+    color: white;
+    padding: 15px 0;
+    
+}
+p{
+    font-size: 25px;
+}
